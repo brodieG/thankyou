@@ -23,5 +23,7 @@
   ensurer.
 * Hadley Wickham for [devtools](https://cran.r-project.org/package=devtools),
   and for pointing me to Stefan M. Bache's ensurer package.
-* Olaf Mersmann for [microbenchmark](https://cran.r-project.org/package=microbenchmark), because microsecond matter.
+* Olaf Mersmann for
+  [microbenchmark](https://cran.r-project.org/package=microbenchmark), because
+  microsecond matter.
 
