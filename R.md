@@ -13,6 +13,7 @@
   [R-consortium](https://www.r-consortium.org/) for
   [Rhub](https://github.com/r-hub), without which testing bugs on R-devel and
   other platforms would be a nightmare.
+* Roxygen
 * [Yihui Xie](https://github.com/yihui) for
   [knitr](https://cran.r-project.org/package=knitr) and  [J.J.
   Allaire](https://github.com/jjallaire) etal for
