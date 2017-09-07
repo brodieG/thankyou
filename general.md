@@ -1,5 +1,7 @@
 ## General Acknowledgments
 
+* All open source developers out there that make their work freely available
+  for others to use.
 * [Github](https://github.com/), [Travis-CI](https://travis-ci.org/),
   [Codecov](https://codecov.io/), [Vagrant](https://www.vagrantup.com/),
   [Docker](https://www.docker.com/), [Ubuntu](https://www.ubuntu.com/),
@@ -7,5 +9,3 @@
   open source development.
 * [Free Software Foundation](http://fsf.org/) for developing the GPL license and
   promotion of the free software movement.
-* All open source developers out there that make their work freely available
-  for others to use.
