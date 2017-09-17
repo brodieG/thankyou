@@ -13,8 +13,8 @@
   [R-consortium](https://www.r-consortium.org/) for
   [Rhub](https://github.com/r-hub), without which testing bugs on R-devel and
   other platforms would be a nightmare.
-* Tomas Kalibera for [rchk](https://github.com/kalibera/rchk) to help detect
-  errors in compiled code.
+* Tomas Kalibera for [rchk](https://github.com/kalibera/rchk) and rcnst to help
+  detect errors in compiled code.
 * Hadley Wickham for [devtools](https://cran.r-project.org/package=devtools) and
   [roxygen2](https://cran.r-project.org/package=roxygen2).
 * [Yihui Xie](https://github.com/yihui) for
