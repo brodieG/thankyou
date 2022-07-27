@@ -46,6 +46,11 @@
   [microbenchmark](https://cran.r-project.org/package=microbenchmark), because
   microsecond matter, and [Joshua Ulrich](https://github.com/joshuaulrich) for
   making it lightweight.
+* [Hadley Wickham](https://github.com/hadley/) et al. for
+  [ggplot2](https://ggplot2.tidyverse.org/).
+* [Matt Dowle](https://github.com/mattdowle) and [Arun
+  Srinivasan](https://github.com/arunsrinivasan) for contributing the
+  `{data.table}`'s radix sort to R.
 
 ## Non-language Specific
 
@@ -53,7 +58,7 @@
   for others to use.
 * [Github](https://github.com/), [Codecov](https://about.codecov.io/),
   [Vagrant](https://www.vagrantup.com/), [Docker](https://www.docker.com/),
-  [Ubuntu](https://www.ubuntu.com/), [Brew](https://brew.sh/) for providing
+  [Ubuntu](https://ubuntu.com/), [Brew](https://brew.sh/) for providing
   infrastructure that greatly simplifies open source development.
 * [Free Software Foundation](https://www.fsf.org/) for developing the GPL
   license and promotion of the free software movement.
